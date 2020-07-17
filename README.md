@@ -1,2 +1,2 @@
 # Population genetics
-Mathematical theory of population genetcs
+Mathematical theory of population genetics
